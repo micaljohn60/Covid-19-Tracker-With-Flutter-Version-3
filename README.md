@@ -11,7 +11,7 @@ First run pub dev to get dependencies.
 <img src="https://covid19trackermm-bc790.web.app/Preventions.jpg" width="400px" height="650px" />
 
 ## Download
--[Download for Android Here](https://github.com/micaljohn60/covid19tracker.com/releases/download/v3.0/Covid.19.Tracker.apk)
+-[Download for Android Here](https://github.com/micaljohn60/covid19tracker.com/releases/download/v3.0/Covid.19.Tracker.apk) <br>
 -[Visit our Website](https://covid19trackermm-bc790.web.app/)
 
 ## Flutter Documentation
