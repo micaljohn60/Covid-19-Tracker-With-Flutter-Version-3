@@ -7,8 +7,8 @@
 First run pub dev to get dependencies.
 
 ## Screenshots
-<img src="https://covid19trackermm-bc790.web.app/Home%20Screen%20and%20Countries.jpg" width="400px" height="650px" />
-<img src="https://covid19trackermm-bc790.web.app/Preventions.jpg" width="400px" height="650px" />
+<img src="https://covid19trackermm-bc790.web.app/Home%20Screen%20and%20Countries.jpg" width="380px" height="650px" />
+<img src="https://covid19trackermm-bc790.web.app/Preventions.jpg" width="380px" height="650px" />
 
 ## Visit Website
 - **[Visit to our website](https://micaljohn60.github.io/covid19tracker.com/)**
